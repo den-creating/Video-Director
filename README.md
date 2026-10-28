@@ -62,4 +62,4 @@ I direct and produce end-to-end commercial video assets by integrating advanced 
 [ High-Impact Commercial Master (9:16 Vertical & 16:9 Cinematic) ]
 
 
-Check more in my LinkedIn: https://www.linkedin.com/in/dvalchinova/
+Check more in my LinkedIn: [https://www.linkedin.com/in/dvalchinova/](https://www.linkedin.com/in/dvalchinova/) to see all my videos!
