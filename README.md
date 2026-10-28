@@ -41,29 +41,6 @@ I direct and produce end-to-end commercial video assets by integrating advanced 
 
 ---
 
-### 🚀 Production Workflow Pipeline
-
-- **Step 1:** Creative Brief & Conceptual Framing
-- **Step 2:** Prompt Engineering & Synthetic Storyboarding (Flux / Midjourney)
-- **Step 3:** Motion Synthesis & Scene Direction (Higsfield AI / Kling / Wan)
-- **Step 4:** Editorial Assembly, Hybrid CGI & Compositing (Premiere Pro)
-- **Step 5:** Sound Design & Neural Voiceover (ElevenLabs + Custom Foley)
-- **Step 6:** Color Grading (Custom LUTs) + Neural Upscaling (Topaz 4K)
-- **Step 7:** High-Impact Commercial Master (9:16 Vertical & 16:9 Cinematic)
-
----
-
-### 💼 Commercial Productions & Showcase
-
-| Project / Campaign | Brand / Category | Role | Pipeline & Tools | Showcase Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **Cybernetic Fashion Concept** | Spec Commercial | Video Director & VFX | Higsfield AI • Flux • Premiere Pro | [Watch on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
-| **Future Horizons Brand Teaser** | Tech & Innovation | Creative Director | Kling AI • ElevenLabs • 4K Upscale | [Watch on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
-| **Luxury Beverage CGI Spot** | Product Commercial | Generative Artist | Midjourney • Luma • Color Grading | [Watch on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
-| **Kinetic Motion Promo** | Brand Identity | Director & Editor | Wan 3.0 • CapCut Pro • Custom LUTs | [Watch on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
-
----
-
 ### 🎬 Connect & Watch More
 
 Check more in my <a href="https://www.linkedin.com/in/dvalchinova/" target="_blank">LinkedIn</a> to see all my videos!
