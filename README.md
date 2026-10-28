@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dvalchinova/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20%26%20Watch%20Videos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/Role-AI%20Video%20Director-E50914?style=for-the-badge&logo=artstation&logoColor=white" alt="Role">
   <img src="https://img.shields.io/badge/Focus-Generative%20CGI%20%26%20Ads-7928CA?style=for-the-badge" alt="Focus">
@@ -43,20 +43,29 @@ I direct and produce end-to-end commercial video assets by integrating advanced 
 
 ### 🚀 Production Workflow Pipeline
 
-```text
-[ Creative Brief & Concept ] 
-      │
-      ▼
-[ Prompt Engineering & Synthetic Storyboarding (Flux / Midjourney) ]
-      │
-      ▼
-[ Motion Synthesis & Scene Direction (Higsfield AI / Kling / Wan) ]
-      │
-      ▼
-[ Editorial Assembly, Hybrid CGI & Compositing (Premiere Pro) ]
-      │
-      ▼
-[ Sound Design & Neural Voiceover (ElevenLabs + Custom Foley) ]
+- **Step 1:** Creative Brief & Conceptual Framing
+- **Step 2:** Prompt Engineering & Synthetic Storyboarding (Flux / Midjourney)
+- **Step 3:** Motion Synthesis & Scene Direction (Higsfield AI / Kling / Wan)
+- **Step 4:** Editorial Assembly, Hybrid CGI & Compositing (Premiere Pro)
+- **Step 5:** Sound Design & Neural Voiceover (ElevenLabs + Custom Foley)
+- **Step 6:** Color Grading (Custom LUTs) + Neural Upscaling (Topaz 4K)
+- **Step 7:** High-Impact Commercial Master (9:16 Vertical & 16:9 Cinematic)
 
-🎬 Connect & Watch More
-Check more in my LinkedIn : [https://www.linkedin.com/in/dvalchinova/]
+---
+
+### 💼 Commercial Productions & Showcase
+
+| Project / Campaign | Brand / Category | Role | Pipeline & Tools | Showcase Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Cybernetic Fashion Concept** | Spec Commercial | Video Director & VFX | Higsfield AI • Flux • Premiere Pro | [Watch on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
+| **Future Horizons Brand Teaser** | Tech & Innovation | Creative Director | Kling AI • ElevenLabs • 4K Upscale | [Watch on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
+| **Luxury Beverage CGI Spot** | Product Commercial | Generative Artist | Midjourney • Luma • Color Grading | [Watch on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
+| **Kinetic Motion Promo** | Brand Identity | Director & Editor | Wan 3.0 • CapCut Pro • Custom LUTs | [Watch on LinkedIn](https://www.linkedin.com/in/dvalchinova/) |
+
+---
+
+### 🎬 Connect & Watch More
+
+Check more in my <a href="https://www.linkedin.com/in/dvalchinova/" target="_blank">LinkedIn</a> to see all my videos!
+
+👉 https://www.linkedin.com/in/dvalchinova/
