@@ -57,3 +57,6 @@ I direct and produce end-to-end commercial video assets by integrating advanced 
       │
       ▼
 [ Sound Design & Neural Voiceover (ElevenLabs + Custom Foley) ]
+
+🎬 Connect & Watch More
+Check more in my [LinkedIn](https://www.linkedin.com/in/dvalchinova/) to see all my videos!
