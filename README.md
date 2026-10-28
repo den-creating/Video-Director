@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/dvalchinova/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <img src="https://img.shields.io/badge/Role-AI%20Video%20Director-E50914?style=for-the-badge&logo=artstation&logoColor=white" alt="Role">
   <img src="https://img.shields.io/badge/Focus-Generative%20CGI%20%26%20Ads-7928CA?style=for-the-badge" alt="Focus">
   <img src="https://img.shields.io/badge/Pipeline-Hybrid%20AI%20%2B%20VFX-00DF72?style=for-the-badge" alt="Pipeline">
@@ -54,12 +57,3 @@ I direct and produce end-to-end commercial video assets by integrating advanced 
       │
       ▼
 [ Sound Design & Neural Voiceover (ElevenLabs + Custom Foley) ]
-      │
-      ▼
-[ Color Grading (Custom LUTs) + Neural Upscaling (Topaz 4K) ]
-      │
-      ▼
-[ High-Impact Commercial Master (9:16 Vertical & 16:9 Cinematic) ]
-
-
-Check more in my LinkedIn: [https://www.linkedin.com/in/dvalchinova/](https://www.linkedin.com/in/dvalchinova/) to see all my videos!
